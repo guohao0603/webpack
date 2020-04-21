@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/test.js"],"names":["mul","x","y"],"mappings":"yFAAO,SAASA,EAAIC,EAAEC,GAClB,OAAOD,EAAEC,EADb","file":"test.5f3dcb923b.js","sourcesContent":["export function mul(x,y){\r\n    return x*y;\r\n}\r\n\r\n"],"sourceRoot":""}
