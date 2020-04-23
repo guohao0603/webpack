@@ -55,5 +55,8 @@ module.exports = {
      externals: {
          // 忽略库名 ---> npm 包
          jquery: 'jQuery'
-     }
+     },
+     performance: {
+        hints:false
+    }
 }
